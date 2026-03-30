@@ -1,0 +1,5 @@
+{
+  "name": "SCTimeline to XML Converter",
+  "description": "Convert Sportscode .SCTimeline files to a specific XML format for analysis.",
+  "requestFramePermissions": []
+}
